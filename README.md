@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **mkbellerimath@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/search](https://drive.google.com/drive/search)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
