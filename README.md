@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mkb05" alt="mkb05" /></a> </p>
 
-- 🔭 I’m currently working on [SwiftMart E-com](https://github.com/mkb05/SwiftMart)
+- 🔭 I’m currently working on [FastAPI-Hybrid-RAG-Engine]([https://github.com/mkb05/SwiftMart](https://github.com/mkb05/FastAPI-Hybrid-RAG-Engine))
 
-- 💬 Ask me about **Angular,React,SpingBoot,NodeJs,Laravel,Kafka**
+- 💬 Ask me about **LangChain,LangGrpah,Agentic RAG,Multi Agents,Angular,React,SpingBoot,NodeJs,Laravel,Kafka**
 
 - 📫 How to reach me **mkbellerimath@gmail.com**
 
